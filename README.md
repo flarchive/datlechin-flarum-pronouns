@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of datlechin/flarum-pronouns.** Not for installation: use [Packagist](https://packagist.org/packages/datlechin/flarum-pronouns) or the [upstream repository](https://github.com/datlechin/flarum-pronouns).
 
-**0** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/datlechin-flarum-pronouns/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.0.0`
+**1** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/datlechin-flarum-pronouns/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2021-12-26 | `^1.0.0` | [Browse](https://github.com/flarchive/datlechin-flarum-pronouns/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/datlechin-flarum-pronouns.json](https://github.com/flarchive/archive-index/blob/main/packages/datlechin-flarum-pronouns.json)
 
